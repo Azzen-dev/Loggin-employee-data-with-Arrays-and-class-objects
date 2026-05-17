@@ -20,9 +20,9 @@ from viewing records if the system is empty.
      creation menu.
 
 ## 2. Viewing Employee Records (Option 2)
-   1.Type 2 at the main menu and press Enter.
-     (Note: This only works if you have added at
-     least one employee).
+   1. Type 2 at the main menu and press Enter.
+      (Note: This only works if you have added at
+      least one employee).
    2. Enter the Employee ID you want to look up.
    3. The screen will instantly display:
       The employee's name.
