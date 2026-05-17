@@ -1,4 +1,4 @@
-How the Program Works:
+# How the Program Works:
 The system operates on a simple calculation loop:
 Tax Deduction: It automatically deducts a 15% tax
 from all calculated salaries.
@@ -7,8 +7,8 @@ Smart Validation: The program prevents you from accidentally
 using the same Employee ID twice and blocks you 
 from viewing records if the system is empty.
 
-Step-by-Step User Guide
-1. Adding a New Employee (Option 1)
+# Step-by-Step User Guide
+## 1. Adding a New Employee (Option 1)
   1. Type 1 at the main menu
      and press Enter.
   2. Provide the requested details when
@@ -19,7 +19,7 @@ Step-by-Step User Guide
   4. Tip: Typing 00 as the ID will safely exit the
      creation menu.
 
-2. Viewing Employee Records (Option 2)
+## 2. Viewing Employee Records (Option 2)
    1.Type 2 at the main menu and press Enter.
      (Note: This only works if you have added at
      least one employee).
