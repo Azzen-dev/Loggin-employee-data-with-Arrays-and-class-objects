@@ -90,4 +90,7 @@ while (True):
                 if employee.number == enteredID:   
                     print(f"\n======================\nName: {employee.name}\nTotal hours worked: {employeeHrsWorked}\nTotal gross salary paid:{employee.salary()}\nThe average salary paid per employee is: {average}\n ======================")
                     input("Press any key to continue!")
+                else:
+                    print("Employee ID not found!")
+                    input("Press any key to continue!")
                 continue
